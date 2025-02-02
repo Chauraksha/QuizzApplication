@@ -1,4 +1,4 @@
-# Quizzy (Quiz Web Application)
+# Quizz (Quiz Web Application)
 
 -->> First Clone the Zip File 
 
